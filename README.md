@@ -58,7 +58,7 @@ shipping category, and calculates the final SGD price in Google Sheets.
 
 ## Demo
 
-<video src="demo_video.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/c3d8195d-8d6e-430c-8c5e-e3b195e77a02
 
 If the video doesn't play, [download demo_video.mp4](demo_video.mp4).
 
