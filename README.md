@@ -50,7 +50,7 @@ I built an automated workflow that takes a product from its original source and 
 
 Products can enter the workflow in three ways:
 
-1. **Scan a Weverse Shop page** using the Shining Byeol Chrome extension
+1. **Scan a Weverse Shop page** using the Chrome extension
 2. **Right-click a product poster or image** found on X
 3. **Drop multiple images into a Google Drive folder** and click `Import Products`
 
@@ -62,10 +62,10 @@ Instead of manually processing products one by one, the user mainly needs to pro
 
 ## Demo
 
-> **Demo:** Right-clicking a merch poster → products automatically appear in Google Sheets.
+![Scanning a Weverse Shop Page and Sending the Products to Google Sheets](demo_video.mp4)
 
-<!-- Replace with your GIF -->
-![K-pop Merch Price Automation Demo](YOUR_GIF_URL_HERE)
+*Scanning a Weverse Shop page using Chrome extension. Products are added to the
+Google Sheet to calculate final price in SGD.*
 
 ---
 
