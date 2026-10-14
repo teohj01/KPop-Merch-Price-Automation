@@ -1,4 +1,4 @@
-# K-pop Merch Price Automation
+# K-Pop Merch Price Automation
 
 I'm helping a small Korean proxy shopping service for K-pop fans in Singapore.
 Every new merch drop meant hours of copying prices into a spreadsheet by hand,
